@@ -62,9 +62,6 @@ book1.setTitle("New Title");
 book1.setAuthor("New Author");
 book1.setPages(200);
 
-// Writing custom content to the output
-System.out.println("Custom Message Here");
-
 // Displaying updated book information to the console
 System.out.println("\nUpdated Book Info:");
 System.out.println("Title: " + book1.getTitle());
